@@ -28,7 +28,7 @@
         <NuxtLink
           class="links"
           v-bind:class="created ? 'nuxt-link-active' : ''"
-          to="/about"
+          to="/About"
           >About</NuxtLink
         >
       </li>
